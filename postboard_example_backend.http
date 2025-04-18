@@ -1,4 +1,4 @@
-@postboard_example_backend_HostAddress = http://localhost:5251
+@postboard_example_backend_HostAddress = http://localhost:5105
 
 GET {{postboard_example_backend_HostAddress}}/weatherforecast/
 Accept: application/json
