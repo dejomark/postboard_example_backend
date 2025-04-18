@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("postboard_example_backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5908a2324991424e13bf252633a87f59a89e6861")]
 [assembly: System.Reflection.AssemblyProductAttribute("postboard_example_backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("postboard_example_backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
